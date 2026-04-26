@@ -1,16 +1,16 @@
-### Hi there 👋
+#Juego Adivina el Numero
+La computadora piensa un numero del 1 al 100. intenta adivinarlo en la menor cantidad de intentos 
 
-<!--
-**HemMaX1/HemMaX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### como ejecutarlo
+1. Clona el repo o descarga "day3.py"
+2. Corre: "python day3:py"
+3. sigue con las pistas: "mas arriba" o "mas abajo"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tegnologias
+-python3
+-"random.randint()"
+-Ciclos "while"
+-Condicionales "if/elif/else"
+
+##Actualizo README con intrucciones y tegnologias
