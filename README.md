@@ -12,5 +12,3 @@ La computadora piensa un numero del 1 al 100. intenta adivinarlo en la menor can
 -"random.randint()"
 -Ciclos "while"
 -Condicionales "if/elif/else"
-
-##Actualizo README con intrucciones y tegnologias
